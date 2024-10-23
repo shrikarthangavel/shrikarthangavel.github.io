@@ -1,0 +1,40 @@
+body {
+    font-family: 'Lobster', cursive;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #e0e0eb;
+}
+
+#header {
+    background-color: #00449e;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+#header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #00449e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff5722;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    border: 5px solid #00449e;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+}
