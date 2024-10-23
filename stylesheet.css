@@ -8,12 +8,12 @@ body {
 .section {
     padding: 20px;
     margin: 10px;
-    background-color: #e0e0eb;
+    background-color: lightblue;
 }
 
 .header {
     background-color: #00449e;
-    color: white;
+    color: lightblue;
     text-align: center;
     padding: 40px;
 }
